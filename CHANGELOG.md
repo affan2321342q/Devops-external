@@ -23,3 +23,5 @@ All notable changes to this project will be documented in this file.
 - Responsive design
 - Docker containerization
 - Selenium test suite
+
+Updated with new category features
